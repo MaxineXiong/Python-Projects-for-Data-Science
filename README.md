@@ -1,2 +1,2 @@
 # Python-Projects-for-Data-Science
-Exercises focused on applying Python to data science projects
+Projects and exercises focused on applying Python to data science
